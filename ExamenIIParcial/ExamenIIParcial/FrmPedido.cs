@@ -66,7 +66,7 @@ namespace ExamenIIParcial
                 detallePedido.Precio = producto.Precio;
                 detallePedido.Total = producto.Precio * Convert.ToInt32(CantidadTextBox.Text);
 
-                //pendiente de revisar
+                
                 total = detallePedido.Precio * detallePedido.Cantidad;
                
 

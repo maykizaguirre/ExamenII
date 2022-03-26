@@ -11,7 +11,7 @@ namespace ExamenIIParcial.Accesos
 {
     public class UsuarioDA
     {
-        readonly string cadena = "Server=localhost; Port=3306; Database=examen2parcial; Uid=root; Pwd=MaykJIM007!IAFB;";
+        readonly string cadena = "Server=localhost; Port=3306; Database=examen2parcial; Uid=root; Pwd=Mayk123;";
 
         MySqlConnection conn;
         MySqlCommand cmd;
